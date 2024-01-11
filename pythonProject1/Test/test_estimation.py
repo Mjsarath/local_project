@@ -25,3 +25,6 @@ class TestEstimation(BaseTest):
                 for est in estimations:
                     print(i + " : " + est)
         assert True
+
+    def test_dummy(self):
+        pass
